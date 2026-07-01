@@ -221,7 +221,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/8">
         <div className="max-w-7xl mx-auto px-5 md:px-10 py-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p className="text-xs text-white/40">© 2026 DentalCare. All rights reserved. Designed with ❤️ for healthier smiles.</p>
+          <p className="text-xs text-white/40">© 2026 DentalCare. All rights reserved. Designed with ❤️ Zohaib Zulfiqar.</p>
           <div className="flex items-center gap-5">
             <a href="#" className="text-xs text-white/40 hover:text-accent transition-colors">Privacy Policy</a>
             <a href="#" className="text-xs text-white/40 hover:text-accent transition-colors">Terms of Service</a>
